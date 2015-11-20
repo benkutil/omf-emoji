@@ -11,6 +11,8 @@
 
 Plugin for [Oh My Fish][omf-link].
 
+Will use [python emoji parser](https://github.com/carpedm20/emoji)
+
 ## Install
 
 ```fish
